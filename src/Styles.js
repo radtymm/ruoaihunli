@@ -106,9 +106,9 @@ const home = StyleSheet.create({
 });
 
 const storeDetail = StyleSheet.create({
-  scroll:{backgroundColor:"#fff", height:setSize(HEIGHT - 45)},
-  imgFirst:{width:setSize(375), height:setSize(290)},
-  imgList:{width:setSize(108), height:setSize(80), margin:setSize(5)},
+  scroll:{backgroundColor:"#fff", flex:1,},
+  imgFirst:{width:WIDTH, height:setSize(290), resizeMode:'stretch',},
+  imgList:{width:setSize(108), height:setSize(80), margin:setSize(5), resizeMode:'stretch'},
   title:{paddingLeft:setSize(10), fontSize:setSize(24), marginTop:setSize(20), marginBottom:setSize(20), fontWeight:'bold', color:"#333"},
   moneyView:{paddingLeft:setSize(10), flexDirection:'row', alignItems:"flex-end", marginBottom:setSize(40)},
   moneySymbol:{fontSize:setSize(24), color:'#F83244'},
@@ -120,7 +120,7 @@ const storeDetail = StyleSheet.create({
   consultOnline:{flex:1, backgroundColor:"#FF7D48", alignItems:"center", justifyContent:"center"},
   consultPhone:{flex:1, backgroundColor:"#372B2B", alignItems:"center", justifyContent:"center"},
   consultText:{color:"#fff", fontSize:setSize(18)},
-  webView:{width:WIDTH, height:'auto', backgroundColor:"#fff", height:setSize(300)}
+  webView:{width:WIDTH, height:HEIGHT, backgroundColor:"#fff"}
 });
 
 const styles = {
