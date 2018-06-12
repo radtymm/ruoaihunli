@@ -1,0 +1,1832 @@
+[
+        {
+            "value": 1,
+            "label": "北京",
+            "children": [
+                {
+                    "value": 2,
+                    "label": "北京市"
+                }
+            ]
+        },
+        {
+            "value": 1874,
+            "label": "辽宁",
+            "children": [
+                {
+                    "value": 1875,
+                    "label": "沈阳市"
+                },
+                {
+                    "value": 1974,
+                    "label": "铁岭市"
+                },
+                {
+                    "value": 1969,
+                    "label": "盘锦市"
+                },
+                {
+                    "value": 1961,
+                    "label": "辽阳市"
+                },
+                {
+                    "value": 1953,
+                    "label": "锦州市"
+                },
+                {
+                    "value": 1946,
+                    "label": "葫芦岛市"
+                },
+                {
+                    "value": 1938,
+                    "label": "阜新市"
+                },
+                {
+                    "value": 1930,
+                    "label": "抚顺市"
+                },
+                {
+                    "value": 1923,
+                    "label": "丹东市"
+                },
+                {
+                    "value": 1912,
+                    "label": "大连市"
+                },
+                {
+                    "value": 1904,
+                    "label": "朝阳市"
+                },
+                {
+                    "value": 1897,
+                    "label": "本溪市"
+                },
+                {
+                    "value": 1889,
+                    "label": "鞍山市"
+                },
+                {
+                    "value": 1982,
+                    "label": "营口市"
+                }
+            ]
+        },
+        {
+            "value": 1989,
+            "label": "内蒙古",
+            "children": [
+                {
+                    "value": 1990,
+                    "label": "呼和浩特市"
+                },
+                {
+                    "value": 2083,
+                    "label": "锡林郭勒盟"
+                },
+                {
+                    "value": 2071,
+                    "label": "乌兰察布市"
+                },
+                {
+                    "value": 2067,
+                    "label": "乌海市"
+                },
+                {
+                    "value": 2058,
+                    "label": "通辽市"
+                },
+                {
+                    "value": 2044,
+                    "label": "呼伦贝尔市"
+                },
+                {
+                    "value": 2035,
+                    "label": "鄂尔多斯市"
+                },
+                {
+                    "value": 2022,
+                    "label": "赤峰市"
+                },
+                {
+                    "value": 2012,
+                    "label": "包头市"
+                },
+                {
+                    "value": 2004,
+                    "label": "巴彦淖尔市"
+                },
+                {
+                    "value": 2000,
+                    "label": "阿拉善盟"
+                },
+                {
+                    "value": 2096,
+                    "label": "兴安盟"
+                }
+            ]
+        },
+        {
+            "value": 2103,
+            "label": "宁夏",
+            "children": [
+                {
+                    "value": 2104,
+                    "label": "银川市"
+                },
+                {
+                    "value": 2111,
+                    "label": "固原市"
+                },
+                {
+                    "value": 2117,
+                    "label": "石嘴山市"
+                },
+                {
+                    "value": 2121,
+                    "label": "吴忠市"
+                },
+                {
+                    "value": 2126,
+                    "label": "中卫市"
+                }
+            ]
+        },
+        {
+            "value": 2130,
+            "label": "青海",
+            "children": [
+                {
+                    "value": 2131,
+                    "label": "西宁市"
+                },
+                {
+                    "value": 2139,
+                    "label": "果洛藏族自治州"
+                },
+                {
+                    "value": 2146,
+                    "label": "海北藏族自治州"
+                },
+                {
+                    "value": 2151,
+                    "label": "海东地区"
+                },
+                {
+                    "value": 2158,
+                    "label": "海南藏族自治州"
+                },
+                {
+                    "value": 2164,
+                    "label": "海西蒙古族藏族自治州"
+                },
+                {
+                    "value": 2170,
+                    "label": "黄南藏族自治州"
+                },
+                {
+                    "value": 2175,
+                    "label": "玉树藏族自治州"
+                }
+            ]
+        },
+        {
+            "value": 2182,
+            "label": "山东",
+            "children": [
+                {
+                    "value": 2183,
+                    "label": "济南市"
+                },
+                {
+                    "value": 2324,
+                    "label": "枣庄市"
+                },
+                {
+                    "value": 2311,
+                    "label": "烟台市"
+                },
+                {
+                    "value": 2298,
+                    "label": "潍坊市"
+                },
+                {
+                    "value": 2293,
+                    "label": "威海市"
+                },
+                {
+                    "value": 2286,
+                    "label": "泰安市"
+                },
+                {
+                    "value": 2281,
+                    "label": "日照市"
+                },
+                {
+                    "value": 2268,
+                    "label": "青岛市"
+                },
+                {
+                    "value": 2255,
+                    "label": "临沂市"
+                },
+                {
+                    "value": 2246,
+                    "label": "聊城市"
+                },
+                {
+                    "value": 2243,
+                    "label": "莱芜市"
+                },
+                {
+                    "value": 2230,
+                    "label": "济宁市"
+                },
+                {
+                    "value": 2220,
+                    "label": "菏泽市"
+                },
+                {
+                    "value": 2214,
+                    "label": "东营市"
+                },
+                {
+                    "value": 2202,
+                    "label": "德州市"
+                },
+                {
+                    "value": 2194,
+                    "label": "滨州市"
+                },
+                {
+                    "value": 2331,
+                    "label": "淄博市"
+                }
+            ]
+        },
+        {
+            "value": 2340,
+            "label": "山西",
+            "children": [
+                {
+                    "value": 2341,
+                    "label": "太原市"
+                },
+                {
+                    "value": 2451,
+                    "label": "阳泉市"
+                },
+                {
+                    "value": 2436,
+                    "label": "忻州市"
+                },
+                {
+                    "value": 2429,
+                    "label": "朔州市"
+                },
+                {
+                    "value": 2415,
+                    "label": "吕梁市"
+                },
+                {
+                    "value": 2397,
+                    "label": "临汾市"
+                },
+                {
+                    "value": 2385,
+                    "label": "晋中市"
+                },
+                {
+                    "value": 2378,
+                    "label": "晋城市"
+                },
+                {
+                    "value": 2366,
+                    "label": "大同市"
+                },
+                {
+                    "value": 2352,
+                    "label": "长治市"
+                },
+                {
+                    "value": 2457,
+                    "label": "运城市"
+                }
+            ]
+        },
+        {
+            "value": 2471,
+            "label": "陕西",
+            "children": [
+                {
+                    "value": 2472,
+                    "label": "西安市"
+                },
+                {
+                    "value": 2562,
+                    "label": "延安市"
+                },
+                {
+                    "value": 2547,
+                    "label": "咸阳市"
+                },
+                {
+                    "value": 2535,
+                    "label": "渭南市"
+                },
+                {
+                    "value": 2530,
+                    "label": "铜川市"
+                },
+                {
+                    "value": 2522,
+                    "label": "商洛市"
+                },
+                {
+                    "value": 2510,
+                    "label": "汉中市"
+                },
+                {
+                    "value": 2497,
+                    "label": "宝鸡市"
+                },
+                {
+                    "value": 2486,
+                    "label": "安康市"
+                },
+                {
+                    "value": 2576,
+                    "label": "榆林市"
+                }
+            ]
+        },
+        {
+            "value": 2589,
+            "label": "四川",
+            "children": [
+                {
+                    "value": 2590,
+                    "label": "成都市"
+                },
+                {
+                    "value": 2722,
+                    "label": "绵阳市"
+                },
+                {
+                    "value": 2732,
+                    "label": "内江市"
+                },
+                {
+                    "value": 2738,
+                    "label": "南充市"
+                },
+                {
+                    "value": 2748,
+                    "label": "攀枝花市"
+                },
+                {
+                    "value": 2754,
+                    "label": "遂宁市"
+                },
+                {
+                    "value": 2760,
+                    "label": "雅安市"
+                },
+                {
+                    "value": 2769,
+                    "label": "宜宾市"
+                },
+                {
+                    "value": 2780,
+                    "label": "资阳市"
+                },
+                {
+                    "value": 2715,
+                    "label": "眉山市"
+                },
+                {
+                    "value": 2707,
+                    "label": "泸州市"
+                },
+                {
+                    "value": 2689,
+                    "label": "凉山彝族自治州"
+                },
+                {
+                    "value": 2610,
+                    "label": "阿坝藏族羌族自治州"
+                },
+                {
+                    "value": 2624,
+                    "label": "巴中市"
+                },
+                {
+                    "value": 2629,
+                    "label": "达州市"
+                },
+                {
+                    "value": 2637,
+                    "label": "德阳市"
+                },
+                {
+                    "value": 2644,
+                    "label": "甘孜藏族自治州"
+                },
+                {
+                    "value": 2663,
+                    "label": "广安市"
+                },
+                {
+                    "value": 2669,
+                    "label": "广元市"
+                },
+                {
+                    "value": 2677,
+                    "label": "乐山市"
+                },
+                {
+                    "value": 2785,
+                    "label": "自贡市"
+                }
+            ]
+        },
+        {
+            "value": 2792,
+            "label": "西藏",
+            "children": [
+                {
+                    "value": 2793,
+                    "label": "拉萨市"
+                },
+                {
+                    "value": 2802,
+                    "label": "阿里地区"
+                },
+                {
+                    "value": 2810,
+                    "label": "昌都地区"
+                },
+                {
+                    "value": 2822,
+                    "label": "林芝地区"
+                },
+                {
+                    "value": 2830,
+                    "label": "那曲地区"
+                },
+                {
+                    "value": 2841,
+                    "label": "日喀则地区"
+                },
+                {
+                    "value": 2860,
+                    "label": "山南地区"
+                }
+            ]
+        },
+        {
+            "value": 2873,
+            "label": "新疆",
+            "children": [
+                {
+                    "value": 2874,
+                    "label": "乌鲁木齐市"
+                },
+                {
+                    "value": 2975,
+                    "label": "五家渠市"
+                },
+                {
+                    "value": 2971,
+                    "label": "吐鲁番地区"
+                },
+                {
+                    "value": 2970,
+                    "label": "图木舒克市"
+                },
+                {
+                    "value": 2962,
+                    "label": "塔城地区"
+                },
+                {
+                    "value": 2961,
+                    "label": "石河子市"
+                },
+                {
+                    "value": 2956,
+                    "label": "克孜勒苏柯尔克孜自治州"
+                },
+                {
+                    "value": 2951,
+                    "label": "克拉玛依市"
+                },
+                {
+                    "value": 2938,
+                    "label": "喀什地区"
+                },
+                {
+                    "value": 2929,
+                    "label": "和田地区"
+                },
+                {
+                    "value": 2925,
+                    "label": "哈密地区"
+                },
+                {
+                    "value": 2916,
+                    "label": "昌吉回族自治州"
+                },
+                {
+                    "value": 2912,
+                    "label": "博尔塔拉蒙古自治州"
+                },
+                {
+                    "value": 2902,
+                    "label": "巴音郭楞蒙古自治州"
+                },
+                {
+                    "value": 2894,
+                    "label": "阿勒泰地区"
+                },
+                {
+                    "value": 2893,
+                    "label": "阿拉尔市"
+                },
+                {
+                    "value": 2883,
+                    "label": "阿克苏地区"
+                },
+                {
+                    "value": 2976,
+                    "label": "伊犁哈萨克自治州"
+                }
+            ]
+        },
+        {
+            "value": 2987,
+            "label": "云南",
+            "children": [
+                {
+                    "value": 2988,
+                    "label": "昆明市"
+                },
+                {
+                    "value": 3121,
+                    "label": "昭通市"
+                },
+                {
+                    "value": 3111,
+                    "label": "玉溪市"
+                },
+                {
+                    "value": 3107,
+                    "label": "西双版纳傣族自治州"
+                },
+                {
+                    "value": 3098,
+                    "label": "文山壮族苗族自治州"
+                },
+                {
+                    "value": 3087,
+                    "label": "思茅市"
+                },
+                {
+                    "value": 3077,
+                    "label": "曲靖市"
+                },
+                {
+                    "value": 3072,
+                    "label": "怒江傈僳族自治州"
+                },
+                {
+                    "value": 3063,
+                    "label": "临沧市"
+                },
+                {
+                    "value": 3057,
+                    "label": "丽江市"
+                },
+                {
+                    "value": 3043,
+                    "label": "红河哈尼族彝族自治州"
+                },
+                {
+                    "value": 3039,
+                    "label": "迪庆藏族自治州"
+                },
+                {
+                    "value": 3033,
+                    "label": "德宏傣族景颇族自治州"
+                },
+                {
+                    "value": 3020,
+                    "label": "大理白族自治州"
+                },
+                {
+                    "value": 3009,
+                    "label": "楚雄彝族自治州"
+                },
+                {
+                    "value": 3003,
+                    "label": "保山市"
+                },
+                {
+                    "value": 3294,
+                    "label": "普洱市"
+                }
+            ]
+        },
+        {
+            "value": 3133,
+            "label": "浙江",
+            "children": [
+                {
+                    "value": 3134,
+                    "label": "杭州市"
+                },
+                {
+                    "value": 3218,
+                    "label": "温州市"
+                },
+                {
+                    "value": 3208,
+                    "label": "台州市"
+                },
+                {
+                    "value": 3201,
+                    "label": "绍兴市"
+                },
+                {
+                    "value": 3194,
+                    "label": "衢州市"
+                },
+                {
+                    "value": 3182,
+                    "label": "宁波市"
+                },
+                {
+                    "value": 3172,
+                    "label": "丽水市"
+                },
+                {
+                    "value": 3162,
+                    "label": "金华市"
+                },
+                {
+                    "value": 3154,
+                    "label": "嘉兴市"
+                },
+                {
+                    "value": 3148,
+                    "label": "湖州市"
+                },
+                {
+                    "value": 3230,
+                    "label": "舟山市"
+                }
+            ]
+        },
+        {
+            "value": 3235,
+            "label": "香港",
+            "children": [
+                {
+                    "value": 3236,
+                    "label": "九龙"
+                },
+                {
+                    "value": 3237,
+                    "label": "香港岛"
+                },
+                {
+                    "value": 3238,
+                    "label": "新界"
+                }
+            ]
+        },
+        {
+            "value": 3239,
+            "label": "澳门",
+            "children": [
+                {
+                    "value": 3240,
+                    "label": "澳门半岛"
+                },
+                {
+                    "value": 3241,
+                    "label": "离岛"
+                }
+            ]
+        },
+        {
+            "value": 3242,
+            "label": "台湾",
+            "children": [
+                {
+                    "value": 3243,
+                    "label": "台北市"
+                },
+                {
+                    "value": 3256,
+                    "label": "台东县"
+                },
+                {
+                    "value": 3257,
+                    "label": "台南市"
+                },
+                {
+                    "value": 3258,
+                    "label": "台南县"
+                },
+                {
+                    "value": 3259,
+                    "label": "台中市"
+                },
+                {
+                    "value": 3260,
+                    "label": "台中县"
+                },
+                {
+                    "value": 3261,
+                    "label": "桃园县"
+                },
+                {
+                    "value": 3262,
+                    "label": "新竹市"
+                },
+                {
+                    "value": 3263,
+                    "label": "新竹县"
+                },
+                {
+                    "value": 3264,
+                    "label": "宜兰县"
+                },
+                {
+                    "value": 3265,
+                    "label": "云林县"
+                },
+                {
+                    "value": 3255,
+                    "label": "台北县"
+                },
+                {
+                    "value": 3254,
+                    "label": "屏东县"
+                },
+                {
+                    "value": 3244,
+                    "label": "高雄市"
+                },
+                {
+                    "value": 3245,
+                    "label": "高雄县"
+                },
+                {
+                    "value": 3246,
+                    "label": "花莲县"
+                },
+                {
+                    "value": 3247,
+                    "label": "基隆市"
+                },
+                {
+                    "value": 3248,
+                    "label": "嘉义市"
+                },
+                {
+                    "value": 3249,
+                    "label": "嘉义县"
+                },
+                {
+                    "value": 3250,
+                    "label": "金门县"
+                },
+                {
+                    "value": 3251,
+                    "label": "苗栗县"
+                },
+                {
+                    "value": 3252,
+                    "label": "南投县"
+                },
+                {
+                    "value": 3253,
+                    "label": "澎湖县"
+                },
+                {
+                    "value": 3266,
+                    "label": "彰化县"
+                }
+            ]
+        },
+        {
+            "value": 1763,
+            "label": "江西",
+            "children": [
+                {
+                    "value": 1764,
+                    "label": "南昌市"
+                },
+                {
+                    "value": 1859,
+                    "label": "宜春市"
+                },
+                {
+                    "value": 1856,
+                    "label": "新余市"
+                },
+                {
+                    "value": 1843,
+                    "label": "上饶市"
+                },
+                {
+                    "value": 1837,
+                    "label": "萍乡市"
+                },
+                {
+                    "value": 1824,
+                    "label": "九江市"
+                },
+                {
+                    "value": 1819,
+                    "label": "景德镇市"
+                },
+                {
+                    "value": 1805,
+                    "label": "吉安市"
+                },
+                {
+                    "value": 1786,
+                    "label": "赣州市"
+                },
+                {
+                    "value": 1774,
+                    "label": "抚州市"
+                },
+                {
+                    "value": 1870,
+                    "label": "鹰潭市"
+                }
+            ]
+        },
+        {
+            "value": 1643,
+            "label": "江苏",
+            "children": [
+                {
+                    "value": 1644,
+                    "label": "南京市"
+                },
+                {
+                    "value": 1748,
+                    "label": "扬州市"
+                },
+                {
+                    "value": 1738,
+                    "label": "盐城市"
+                },
+                {
+                    "value": 1726,
+                    "label": "徐州市"
+                },
+                {
+                    "value": 1717,
+                    "label": "无锡市"
+                },
+                {
+                    "value": 1710,
+                    "label": "泰州市"
+                },
+                {
+                    "value": 1704,
+                    "label": "宿迁市"
+                },
+                {
+                    "value": 1692,
+                    "label": "苏州市"
+                },
+                {
+                    "value": 1683,
+                    "label": "南通市"
+                },
+                {
+                    "value": 1675,
+                    "label": "连云港市"
+                },
+                {
+                    "value": 1666,
+                    "label": "淮安市"
+                },
+                {
+                    "value": 1658,
+                    "label": "常州市"
+                },
+                {
+                    "value": 1756,
+                    "label": "镇江市"
+                }
+            ]
+        },
+        {
+            "value": 21,
+            "label": "上海",
+            "children": [
+                {
+                    "value": 22,
+                    "label": "上海市"
+                }
+            ]
+        },
+        {
+            "value": 42,
+            "label": "天津",
+            "children": [
+                {
+                    "value": 43,
+                    "label": "天津市"
+                }
+            ]
+        },
+        {
+            "value": 62,
+            "label": "重庆",
+            "children": [
+                {
+                    "value": 63,
+                    "label": "重庆市"
+                }
+            ]
+        },
+        {
+            "value": 104,
+            "label": "安徽",
+            "children": [
+                {
+                    "value": 105,
+                    "label": "合肥市"
+                },
+                {
+                    "value": 211,
+                    "label": "芜湖市"
+                },
+                {
+                    "value": 206,
+                    "label": "铜陵市"
+                },
+                {
+                    "value": 200,
+                    "label": "宿州市"
+                },
+                {
+                    "value": 195,
+                    "label": "马鞍山市"
+                },
+                {
+                    "value": 187,
+                    "label": "六安市"
+                },
+                {
+                    "value": 179,
+                    "label": "黄山市"
+                },
+                {
+                    "value": 172,
+                    "label": "淮南市"
+                },
+                {
+                    "value": 167,
+                    "label": "淮北市"
+                },
+                {
+                    "value": 158,
+                    "label": "阜阳市"
+                },
+                {
+                    "value": 149,
+                    "label": "滁州市"
+                },
+                {
+                    "value": 144,
+                    "label": "池州市"
+                },
+                {
+                    "value": 138,
+                    "label": "巢湖市"
+                },
+                {
+                    "value": 133,
+                    "label": "亳州市"
+                },
+                {
+                    "value": 125,
+                    "label": "蚌埠市"
+                },
+                {
+                    "value": 113,
+                    "label": "安庆市"
+                },
+                {
+                    "value": 219,
+                    "label": "宣城市"
+                }
+            ]
+        },
+        {
+            "value": 227,
+            "label": "福建",
+            "children": [
+                {
+                    "value": 228,
+                    "label": "福州市"
+                },
+                {
+                    "value": 242,
+                    "label": "龙岩市"
+                },
+                {
+                    "value": 250,
+                    "label": "南平市"
+                },
+                {
+                    "value": 261,
+                    "label": "宁德市"
+                },
+                {
+                    "value": 271,
+                    "label": "莆田市"
+                },
+                {
+                    "value": 277,
+                    "label": "泉州市"
+                },
+                {
+                    "value": 290,
+                    "label": "三明市"
+                },
+                {
+                    "value": 303,
+                    "label": "厦门市"
+                },
+                {
+                    "value": 310,
+                    "label": "漳州市"
+                }
+            ]
+        },
+        {
+            "value": 322,
+            "label": "甘肃",
+            "children": [
+                {
+                    "value": 323,
+                    "label": "兰州市"
+                },
+                {
+                    "value": 411,
+                    "label": "武威市"
+                },
+                {
+                    "value": 403,
+                    "label": "天水市"
+                },
+                {
+                    "value": 394,
+                    "label": "庆阳市"
+                },
+                {
+                    "value": 386,
+                    "label": "平凉市"
+                },
+                {
+                    "value": 376,
+                    "label": "陇南市"
+                },
+                {
+                    "value": 367,
+                    "label": "临夏回族自治州"
+                },
+                {
+                    "value": 359,
+                    "label": "酒泉市"
+                },
+                {
+                    "value": 356,
+                    "label": "金昌市"
+                },
+                {
+                    "value": 355,
+                    "label": "嘉峪关市"
+                },
+                {
+                    "value": 346,
+                    "label": "甘南藏族自治州"
+                },
+                {
+                    "value": 338,
+                    "label": "定西市"
+                },
+                {
+                    "value": 332,
+                    "label": "白银市"
+                },
+                {
+                    "value": 416,
+                    "label": "张掖市"
+                }
+            ]
+        },
+        {
+            "value": 423,
+            "label": "广东",
+            "children": [
+                {
+                    "value": 424,
+                    "label": "广州市"
+                },
+                {
+                    "value": 500,
+                    "label": "汕头市"
+                },
+                {
+                    "value": 508,
+                    "label": "汕尾市"
+                },
+                {
+                    "value": 513,
+                    "label": "韶关市"
+                },
+                {
+                    "value": 524,
+                    "label": "深圳市"
+                },
+                {
+                    "value": 531,
+                    "label": "阳江市"
+                },
+                {
+                    "value": 536,
+                    "label": "云浮市"
+                },
+                {
+                    "value": 542,
+                    "label": "湛江市"
+                },
+                {
+                    "value": 552,
+                    "label": "肇庆市"
+                },
+                {
+                    "value": 561,
+                    "label": "中山市"
+                },
+                {
+                    "value": 491,
+                    "label": "清远市"
+                },
+                {
+                    "value": 483,
+                    "label": "梅州市"
+                },
+                {
+                    "value": 437,
+                    "label": "潮州市"
+                },
+                {
+                    "value": 441,
+                    "label": "东莞市"
+                },
+                {
+                    "value": 442,
+                    "label": "佛山市"
+                },
+                {
+                    "value": 448,
+                    "label": "河源市"
+                },
+                {
+                    "value": 455,
+                    "label": "惠州市"
+                },
+                {
+                    "value": 461,
+                    "label": "江门市"
+                },
+                {
+                    "value": 469,
+                    "label": "揭阳市"
+                },
+                {
+                    "value": 475,
+                    "label": "茂名市"
+                },
+                {
+                    "value": 482,
+                    "label": "梅江区"
+                },
+                {
+                    "value": 562,
+                    "label": "珠海市"
+                }
+            ]
+        },
+        {
+            "value": 566,
+            "label": "广西",
+            "children": [
+                {
+                    "value": 567,
+                    "label": "南宁市"
+                },
+                {
+                    "value": 675,
+                    "label": "梧州市"
+                },
+                {
+                    "value": 670,
+                    "label": "钦州市"
+                },
+                {
+                    "value": 659,
+                    "label": "柳州市"
+                },
+                {
+                    "value": 652,
+                    "label": "来宾市"
+                },
+                {
+                    "value": 647,
+                    "label": "贺州市"
+                },
+                {
+                    "value": 635,
+                    "label": "河池市"
+                },
+                {
+                    "value": 617,
+                    "label": "桂林市"
+                },
+                {
+                    "value": 611,
+                    "label": "贵港市"
+                },
+                {
+                    "value": 606,
+                    "label": "防城港市"
+                },
+                {
+                    "value": 598,
+                    "label": "崇左市"
+                },
+                {
+                    "value": 593,
+                    "label": "北海市"
+                },
+                {
+                    "value": 580,
+                    "label": "百色市"
+                },
+                {
+                    "value": 683,
+                    "label": "玉林市"
+                }
+            ]
+        },
+        {
+            "value": 690,
+            "label": "贵州",
+            "children": [
+                {
+                    "value": 691,
+                    "label": "贵阳市"
+                },
+                {
+                    "value": 702,
+                    "label": "安顺市"
+                },
+                {
+                    "value": 709,
+                    "label": "毕节地区"
+                },
+                {
+                    "value": 718,
+                    "label": "六盘水市"
+                },
+                {
+                    "value": 723,
+                    "label": "黔东南苗族侗族自治州"
+                },
+                {
+                    "value": 740,
+                    "label": "黔南布依族苗族自治州"
+                },
+                {
+                    "value": 753,
+                    "label": "黔西南布依族苗族自治州"
+                },
+                {
+                    "value": 762,
+                    "label": "铜仁地区"
+                },
+                {
+                    "value": 773,
+                    "label": "遵义市"
+                }
+            ]
+        },
+        {
+            "value": 788,
+            "label": "海南",
+            "children": [
+                {
+                    "value": 789,
+                    "label": "海口市"
+                },
+                {
+                    "value": 805,
+                    "label": "琼海市"
+                },
+                {
+                    "value": 806,
+                    "label": "琼中黎族苗族自治县"
+                },
+                {
+                    "value": 807,
+                    "label": "三亚市"
+                },
+                {
+                    "value": 808,
+                    "label": "屯昌县"
+                },
+                {
+                    "value": 809,
+                    "label": "万宁市"
+                },
+                {
+                    "value": 810,
+                    "label": "文昌市"
+                },
+                {
+                    "value": 811,
+                    "label": "五指山市"
+                },
+                {
+                    "value": 812,
+                    "label": "西沙群岛"
+                },
+                {
+                    "value": 804,
+                    "label": "南沙群岛"
+                },
+                {
+                    "value": 803,
+                    "label": "陵水黎族自治县"
+                },
+                {
+                    "value": 802,
+                    "label": "临高县"
+                },
+                {
+                    "value": 794,
+                    "label": "白沙黎族自治县"
+                },
+                {
+                    "value": 795,
+                    "label": "保亭黎族苗族自治县"
+                },
+                {
+                    "value": 796,
+                    "label": "昌江黎族自治县"
+                },
+                {
+                    "value": 797,
+                    "label": "澄迈县"
+                },
+                {
+                    "value": 798,
+                    "label": "儋州市"
+                },
+                {
+                    "value": 799,
+                    "label": "定安县"
+                },
+                {
+                    "value": 800,
+                    "label": "东方市"
+                },
+                {
+                    "value": 801,
+                    "label": "乐东黎族自治县"
+                },
+                {
+                    "value": 813,
+                    "label": "中沙群岛的岛礁及其海域"
+                }
+            ]
+        },
+        {
+            "value": 814,
+            "label": "河北",
+            "children": [
+                {
+                    "value": 815,
+                    "label": "石家庄市"
+                },
+                {
+                    "value": 960,
+                    "label": "邢台市"
+                },
+                {
+                    "value": 945,
+                    "label": "唐山市"
+                },
+                {
+                    "value": 937,
+                    "label": "秦皇岛市"
+                },
+                {
+                    "value": 926,
+                    "label": "廊坊市"
+                },
+                {
+                    "value": 914,
+                    "label": "衡水市"
+                },
+                {
+                    "value": 894,
+                    "label": "邯郸市"
+                },
+                {
+                    "value": 882,
+                    "label": "承德市"
+                },
+                {
+                    "value": 865,
+                    "label": "沧州市"
+                },
+                {
+                    "value": 839,
+                    "label": "保定市"
+                },
+                {
+                    "value": 980,
+                    "label": "张家口市"
+                }
+            ]
+        },
+        {
+            "value": 998,
+            "label": "河南",
+            "children": [
+                {
+                    "value": 999,
+                    "label": "郑州市"
+                },
+                {
+                    "value": 1154,
+                    "label": "周口市"
+                },
+                {
+                    "value": 1147,
+                    "label": "许昌市"
+                },
+                {
+                    "value": 1136,
+                    "label": "信阳市"
+                },
+                {
+                    "value": 1123,
+                    "label": "新乡市"
+                },
+                {
+                    "value": 1113,
+                    "label": "商丘市"
+                },
+                {
+                    "value": 1106,
+                    "label": "三门峡市"
+                },
+                {
+                    "value": 1099,
+                    "label": "濮阳市"
+                },
+                {
+                    "value": 1088,
+                    "label": "平顶山市"
+                },
+                {
+                    "value": 1074,
+                    "label": "南阳市"
+                },
+                {
+                    "value": 1068,
+                    "label": "漯河市"
+                },
+                {
+                    "value": 1052,
+                    "label": "洛阳市"
+                },
+                {
+                    "value": 1041,
+                    "label": "开封市"
+                },
+                {
+                    "value": 1029,
+                    "label": "焦作市"
+                },
+                {
+                    "value": 1028,
+                    "label": "济源市"
+                },
+                {
+                    "value": 1022,
+                    "label": "鹤壁市"
+                },
+                {
+                    "value": 1012,
+                    "label": "安阳市"
+                },
+                {
+                    "value": 1165,
+                    "label": "驻马店市"
+                }
+            ]
+        },
+        {
+            "value": 1176,
+            "label": "黑龙江",
+            "children": [
+                {
+                    "value": 1177,
+                    "label": "哈尔滨市"
+                },
+                {
+                    "value": 1291,
+                    "label": "绥化市"
+                },
+                {
+                    "value": 1282,
+                    "label": "双鸭山市"
+                },
+                {
+                    "value": 1265,
+                    "label": "齐齐哈尔市"
+                },
+                {
+                    "value": 1260,
+                    "label": "七台河市"
+                },
+                {
+                    "value": 1249,
+                    "label": "牡丹江市"
+                },
+                {
+                    "value": 1237,
+                    "label": "佳木斯市"
+                },
+                {
+                    "value": 1227,
+                    "label": "鸡西市"
+                },
+                {
+                    "value": 1220,
+                    "label": "黑河市"
+                },
+                {
+                    "value": 1211,
+                    "label": "鹤岗市"
+                },
+                {
+                    "value": 1207,
+                    "label": "大兴安岭地区"
+                },
+                {
+                    "value": 1197,
+                    "label": "大庆市"
+                },
+                {
+                    "value": 1302,
+                    "label": "伊春市"
+                }
+            ]
+        },
+        {
+            "value": 1320,
+            "label": "湖北",
+            "children": [
+                {
+                    "value": 1321,
+                    "label": "武汉市"
+                },
+                {
+                    "value": 1422,
+                    "label": "宜昌市"
+                },
+                {
+                    "value": 1414,
+                    "label": "孝感市"
+                },
+                {
+                    "value": 1404,
+                    "label": "襄樊市"
+                },
+                {
+                    "value": 1397,
+                    "label": "咸宁市"
+                },
+                {
+                    "value": 1396,
+                    "label": "仙桃市"
+                },
+                {
+                    "value": 1395,
+                    "label": "天门市"
+                },
+                {
+                    "value": 1392,
+                    "label": "随州市"
+                },
+                {
+                    "value": 1383,
+                    "label": "十堰市"
+                },
+                {
+                    "value": 1382,
+                    "label": "神农架林区"
+                },
+                {
+                    "value": 1381,
+                    "label": "潜江市"
+                },
+                {
+                    "value": 1372,
+                    "label": "荆州市"
+                },
+                {
+                    "value": 1366,
+                    "label": "荆门市"
+                },
+                {
+                    "value": 1359,
+                    "label": "黄石市"
+                },
+                {
+                    "value": 1348,
+                    "label": "黄冈市"
+                },
+                {
+                    "value": 1339,
+                    "label": "恩施土家族苗族自治州"
+                },
+                {
+                    "value": 1335,
+                    "label": "鄂州市"
+                },
+                {
+                    "value": 3295,
+                    "label": "襄阳市"
+                }
+            ]
+        },
+        {
+            "value": 1436,
+            "label": "湖南",
+            "children": [
+                {
+                    "value": 1437,
+                    "label": "长沙市"
+                },
+                {
+                    "value": 1558,
+                    "label": "张家界市"
+                },
+                {
+                    "value": 1548,
+                    "label": "岳阳市"
+                },
+                {
+                    "value": 1536,
+                    "label": "永州市"
+                },
+                {
+                    "value": 1529,
+                    "label": "益阳市"
+                },
+                {
+                    "value": 1520,
+                    "label": "湘西土家族苗族自治州"
+                },
+                {
+                    "value": 1514,
+                    "label": "湘潭市"
+                },
+                {
+                    "value": 1501,
+                    "label": "邵阳市"
+                },
+                {
+                    "value": 1495,
+                    "label": "娄底市"
+                },
+                {
+                    "value": 1482,
+                    "label": "怀化市"
+                },
+                {
+                    "value": 1469,
+                    "label": "衡阳市"
+                },
+                {
+                    "value": 1457,
+                    "label": "郴州市"
+                },
+                {
+                    "value": 1447,
+                    "label": "常德市"
+                },
+                {
+                    "value": 1563,
+                    "label": "株洲市"
+                }
+            ]
+        },
+        {
+            "value": 1573,
+            "label": "吉林",
+            "children": [
+                {
+                    "value": 1574,
+                    "label": "长春市"
+                },
+                {
+                    "value": 1585,
+                    "label": "白城市"
+                },
+                {
+                    "value": 1591,
+                    "label": "白山市"
+                },
+                {
+                    "value": 1598,
+                    "label": "吉林市"
+                },
+                {
+                    "value": 1608,
+                    "label": "辽源市"
+                },
+                {
+                    "value": 1613,
+                    "label": "四平市"
+                },
+                {
+                    "value": 1620,
+                    "label": "松原市"
+                },
+                {
+                    "value": 1626,
+                    "label": "通化市"
+                },
+                {
+                    "value": 1634,
+                    "label": "延边朝鲜族自治州"
+                }
+            ]
+        },
+        {
+            "value": 3267,
+            "label": "国外",
+            "children": [
+                {
+                    "value": 3268,
+                    "label": "法国"
+                },
+                {
+                    "value": 3269,
+                    "label": "比利时"
+                },
+                {
+                    "value": 3270,
+                    "label": "英国"
+                },
+                {
+                    "value": 3271,
+                    "label": "德国"
+                },
+                {
+                    "value": 3272,
+                    "label": "意大利"
+                },
+                {
+                    "value": 3279,
+                    "label": "希腊"
+                },
+                {
+                    "value": 3280,
+                    "label": "瑞典"
+                },
+                {
+                    "value": 3281,
+                    "label": "美国"
+                }
+            ]
+        }
+    ];
