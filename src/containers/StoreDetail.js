@@ -67,10 +67,23 @@ export default class StoreDetail extends React.Component {
             </View>
             <ScrollView>
               <WebView
-                scalesPageToFit={false}
-                source={{html: detail.content, baseUrl: '' }}
-                style={style.webView}
-                automaticallyAdjustContentInsets={true}/>
+                source={{html: `<!DOCTYPE html><html><body>${detail.content}
+                <script>window.onload=function(){window.location.hash = 1;document.title = document.body.clientHeight;}</script>
+                </body></html>`, baseUrl: ''}}
+                style={{flex:1, height:this.state.height, width:s.WIDTH}}
+                bounces={false}
+                scrollEnabled={false}
+                scalesPageToFit={true}
+                automaticallyAdjustContentInsets={true}
+                contentInset={{top:0,left:0}}
+                onNavigationStateChange={(title)=>{
+                  if(title.title != undefined) {
+                     this.setState({
+                       height:(parseInt(title.title)+20)
+                     })
+                  }
+                }}
+              />
             </ScrollView>
           </ScrollView>
         </View>
