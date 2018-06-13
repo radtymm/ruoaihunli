@@ -166,7 +166,7 @@ export default class Wedding extends React.Component {
     const {tab} = this.state;
     return (
       <View>
-        <View style={s.common.topView}/>
+        {s.isIOS && <View style={s.common.topView}/>}
         <View style={s.common.header}>
           <RButton onPress={()=>{goBack()}}>
             <Image

@@ -71,7 +71,7 @@ export default class Home extends React.Component {
           {
             state.photo_sec.map((item, index)=>{
               return (
-                <RButton key={index} onPress={()=>{navigate('Wedding')}}>
+                <RButton key={index} onPress={()=>{navigate('StoreDetail', {id:item.id})}}>
                   <View style={s.home.listView}>
                     <Image
                       source={{uri:fun.getImgUrl(item.img)}}
@@ -94,7 +94,7 @@ export default class Home extends React.Component {
     const {state} = this;
     return (
       <View>
-        <View style={s.common.topView}/>
+        {s.isIOS && <View style={s.common.topView}/>}
         <Citypicker
           visible={state.visible}
           value={state.cityValue}
@@ -141,7 +141,7 @@ export default class Home extends React.Component {
                   <Text>订婚宴</Text>
                 </View>
               </RButton>
-              <RButton onPress={()=>navigate('Merchant')}>
+              {/* <RButton onPress={()=>navigate('Merchant')}>
                 <View style={s.home.contentView}>
                   <Image
                     source={require('../images/hotel-icon.png')}
@@ -149,7 +149,7 @@ export default class Home extends React.Component {
                   />
                   <Text>一站式酒店</Text>
                 </View>
-              </RButton>
+              </RButton> */}
             </View>
             {this.renderListContent('婚纱摄影')}
             {/*this.renderListContent('婚宴酒店')*/}
